@@ -150,4 +150,3 @@ CTR %          = DIVIDE ( SUM ( fact_campaign_daily[clicks] ), SUM ( fact_campai
 
 ---
 
-*Dataset is fictional and used for learning and portfolio purposes.*
